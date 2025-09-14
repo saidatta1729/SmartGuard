@@ -27,7 +27,7 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 </p>
 
 <p float="left">
-    <img src="./output-screenshots/checker.png" width="400"/>
+    <img src="./output-screenshots/cheecker.png" width="400"/>
     <img src="./output-screenshots/checker2.png" width="400"/>
 </p>
 
