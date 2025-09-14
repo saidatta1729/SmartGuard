@@ -153,12 +153,3 @@ bash
 python app.py
 ```
 
-## License
-
-MIT License
-" > README.md
-
-## Add and commit README
-git add README.md
-git commit -m "Add README.md"
-git push
