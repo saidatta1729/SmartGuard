@@ -1,6 +1,6 @@
-# WAFinity - Infinite Protection, Intelligent Detection
+# SmartGuard - Infinite Protection, Intelligent Detection
 
-**WAFinity** is an Advanced Web Application Firewall (WAF) that protects web applications from known threats such as SQL injection, Cross-Site Scripting (XSS), and other similar attacks by filtering and monitoring HTTP traffic between the application and the Internet.
+**SmartGuard** is an Advanced Web Application Firewall (WAF) that protects web applications from known threats such as SQL injection, Cross-Site Scripting (XSS), and other similar attacks by filtering and monitoring HTTP traffic between the application and the Internet.
 
 In addition to signature-based detection, it uses **machine learning-based anomaly detection** to identify obfuscated, zero-day, and previously unknown attacks by analyzing patterns and behaviors in incoming requests.
 
@@ -22,18 +22,17 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 ##  Output Screenshots
 
 <p float="left">
-    <img src="./output-screenshots/waf-ss1.png" width="400"/>
-    <img src="./output-screenshots/waf-ss2.png" width="400"/>
+    <img src="./output-screenshots/home.png" width="400"/>
+    <img src="./output-screenshots/home2.png" width="400"/>
 </p>
 
 <p float="left">
-    <img src="./output-screenshots/waf-ss3.png" width="400"/>
-    <img src="./output-screenshots/waf-ss4.png" width="400"/>
+    <img src="./output-screenshots/checker.png" width="400"/>
+    <img src="./output-screenshots/checker2.png" width="400"/>
 </p>
 
 <p float="left">
-    <img src="./output-screenshots/waf-ss5.png" width="400"/>
-    <img src="./output-screenshots/waf-ss6.png" width="400"/>
+    <img src="./output-screenshots/checker3.png" width="400"/>
 </p>
 
 
